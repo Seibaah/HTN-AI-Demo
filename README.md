@@ -1,4 +1,4 @@
-# HTN-AI-Demo (PC) 
+# HTN-AI (Demo-PC) 
 
 •	3-D Demo made in Unity
 
